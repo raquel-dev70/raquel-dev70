@@ -1,3 +1,4 @@
+
 <div align="center">
   <div style="background-color:white; padding: 30px; border-radius: 8px; margin-bottom: 20px;">
     <h1 style="color: #20097d; margin: 0; font-family: 'Arial', sans-serif; font-size: 38px;">RAQUEL GUIMARÃES</h1>
@@ -21,7 +22,7 @@
 ### <span style="color: #20097d;"> Tecnologias e Ferramentas</span>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,msyql " />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql " />
   </a>
 </p>
 
@@ -37,4 +38,3 @@
 ### <span style="color: #20097d;">Conecte-se comigo</span>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-purple)](https://www.linkedin.com/in/raquel-guimaraes-pereira/) [![Gmail](https://img.shields.io/badge/GMAIL-purple)](mailto:raguimaraes90@gmail.com)
-

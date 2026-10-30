@@ -1,4 +1,3 @@
-
 <div align="center">
   <div style="background-color:white; padding: 30px; border-radius: 8px; margin-bottom: 20px;">
     <h1 style="color: #20097d; margin: 0; font-family: 'Arial', sans-serif; font-size: 38px;">RAQUEL GUIMARÃES</h1>
@@ -12,12 +11,14 @@
 
 
 
+<  <br>
 
-## <span style="color: #20097d;">Sobre Mim</span>
-* ${\color{#20097d}\textsf{Estudante de Análise e Desenvolvimento de Sistemas}}$
-* ${\color{#20097d}\textsf{Interesse em desenvolvimento web/backed.}}$
- * ${\color{#20097d}\textsf{Buscando estágio em TI.}}$
+  ## <span style="color: #20097d;">Sobre Mim</span>
+  * ${\color{#20097d}\textsf{Estudante de Análise e Desenvolvimento de Sistemas}}$
+  * ${\color{#20097d}\textsf{Interesse em desenvolvimento web/backend.}}$
+  * ${\color{#20097d}\textsf{Buscando estágio em TI.}}$
  
+  <br>
 
 ### <span style="color: #20097d;"> Tecnologias e Ferramentas</span>
 <p align="center">
@@ -38,3 +39,4 @@
 ### <span style="color: #20097d;">Conecte-se comigo</span>
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-purple)](https://www.linkedin.com/in/raquel-guimaraes-pereira/) [![Gmail](https://img.shields.io/badge/GMAIL-purple)](mailto:raguimaraes90@gmail.com)
+

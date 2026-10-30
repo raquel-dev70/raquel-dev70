@@ -18,7 +18,7 @@
  * ${\color{#20097d}\textsf{Buscando estágio em TI.}}$
  
 
-### <span style="color: #20097d;"> Tecnologias e Ferramentas</span>
+### <span style="color: #20097d;">Tecnologias e Ferramentas</span>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,msql " />

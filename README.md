@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <div style="background-color:white; padding: 30px; border-radius: 8px; margin-bottom: 20px;">
     <h1 style="color: #20097d; margin: 0; font-family: 'Arial', sans-serif; font-size: 38px;">RAQUEL GUIMARÃES</h1>
     <p style="color:#20097d; margin: 5px 0 0 0; font-family: 'Arial', sans-serif; font-size: 16px; opacity: 0.9;">Estudante de Análise e Desenvolvimento de Sistemas</p>

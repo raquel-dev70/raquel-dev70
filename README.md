@@ -21,7 +21,7 @@
 ### <span style="color: #20097d;"> Tecnologias e Ferramentas</span>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,c,msql " />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,msyql " />
   </a>
 </p>
 
@@ -38,5 +38,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-purple)](https://www.linkedin.com/in/raquel-guimaraes-pereira/) [![Gmail](https://img.shields.io/badge/GMAIL-purple)](mailto:raguimaraes90@gmail.com)
 
-![QR Code GitHub](https://qrserver.com)(https://github.com/raquel-dev70)
-![QR Code GitHub](https://qrserver.com)

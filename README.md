@@ -20,7 +20,7 @@
  
   <br>
 
-### <span style="color: #20097d;"> Tecnologias e Ferramentas</span>
+### <span style="color: #20097d;">Ferramentas</span>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,c,mysql " />
